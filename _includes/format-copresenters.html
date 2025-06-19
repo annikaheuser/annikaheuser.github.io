@@ -1,0 +1,14 @@
+{% assign presenters = post.copresented | default: page.copresented %}
+{% assign total_presenters = presenters | size %}
+
+{% for presenter in presenters %}
+  {% if total_presenters == 1 %}
+    {{ presenter }}
+  {% elsif forloop.last %}
+    and {{ presenter}}
+  {% elsif total_presenters == 2 %}
+    {{ presenter }}
+  {% else %}
+    {{ presenter }},
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,21 @@
+{% assign authors = post.authors | default: page.authors %}
+{% assign my_name = "Annika Heuser" %}
+{% assign total_authors = authors | size %}
+
+{% for author in authors %}
+  {% if author == my_name %}
+    {% assign formatted_author = "<strong>" | append: author | append: "</strong>" %}
+  {% else %}
+    {% assign formatted_author = author %}
+  {% endif %}
+
+  {% if total_authors == 1 %}
+    {{ formatted_author }},
+  {% elsif forloop.last %}
+    and {{ formatted_author}},
+  {% elsif total_authors == 2 %}
+    {{ formatted_author }}
+  {% else %}
+    {{ formatted_author }},
+  {% endif %}
+{% endfor %}
