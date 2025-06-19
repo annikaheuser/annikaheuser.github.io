@@ -3,7 +3,7 @@ title: "Momentum AI Capstone Program"
 collection: teaching
 type: "Mentor and Curriculum Executve Team Member"
 permalink: /teaching/2022-summer-momentum
-venue: "Momentum"
+venue: "Momentum AI"
 date: 2022-06-01
 location: "Cambridge, MA, USA"
 excerpt: ""
