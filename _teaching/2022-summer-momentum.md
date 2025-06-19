@@ -4,7 +4,7 @@ collection: teaching
 type: "Mentor and Curriculum Executve Team Member"
 permalink: /teaching/2022-summer-momentum
 venue: "Momentum AI"
-date: 2022-06-01
+date: 2023-06-01
 location: "Cambridge, MA, USA"
 excerpt: ""
 ---
