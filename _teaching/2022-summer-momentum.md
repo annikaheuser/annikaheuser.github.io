@@ -1,7 +1,7 @@
 ---
-title: "Momentum Mentor and Curriculum Executive Team Member"
+title: "Momentum AI Capstone Program"
 collection: teaching
-type: "Mentorship Program"
+type: "Mentor and Curriculum Executve Team Member"
 permalink: /teaching/2022-summer-momentum
 venue: "Momentum"
 date: 2022-06-01
@@ -9,7 +9,7 @@ location: "Cambridge, MA, USA"
 excerpt: ""
 ---
 ## Program Description
-Momentum AI’s free, two-week Capstone program brought high school students—especially those from under-resourced, underrepresented, and first-generation backgrounds—to MIT’s campus for an immersive, project-based deep dive into artificial intelligence (AI).
+Momentum AI’s free, two-week capstone program brought high school students—especially those from under-resourced, underrepresented, and first-generation backgrounds—to MIT’s campus for an immersive, project-based deep dive into artificial intelligence (AI).
 Mentors taught students coding skills and AI fundamentals such that students could design and execute projects involving machine learning.
 Students had the opportunity to hear from MIT professors and researchers from industry leaders like Google during guest lectures. 
 In addition to learning about AI, students also learned about the college admissions process. 
