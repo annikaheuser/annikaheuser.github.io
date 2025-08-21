@@ -51,7 +51,14 @@
               {% else %}
                 Published in
               {% endif %}
+              {% if post.notable %}
+                <i>{{ post.venue }}</i>;
+              {% else %}
               <i>{{ post.venue }}</i>
+              {% endif %}
+            {% endif %}
+            {% if post.notable %}
+               <strong>{{ post.notable }}</strong>
             {% endif %}
           </p>
         {% elsif post.date %}

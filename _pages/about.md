@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a third-year PhD candidate in linguistics at the University of Pennsylvania. 
+Hi! I'm a fourth-year PhD candidate in linguistics at the University of Pennsylvania. 
 My research interests are in child language acquisition, especially phonological development. 
 I am particularly interested in understanding how children learn discrete representations that differ from the continuous surface forms that they hear, and the role of the lexicon in this. 
 I often build/use computational tools for my research.
